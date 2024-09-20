@@ -1,7 +1,5 @@
 import axios from "axios";
 
-const DEV = process.env.DEV || "false";
-
 const MY_TOKEN = process.env.TOKEN;
 
 const BASE_URL = `https://api.telegram.org/bot${MY_TOKEN}`;
