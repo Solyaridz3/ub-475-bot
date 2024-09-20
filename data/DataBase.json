@@ -1,0 +1,316 @@
+{
+  "week1": {
+    "monday": [
+      {
+        "name": "Технології Machine Learning",
+        "professor": "Гріценко",
+        "pairFormat": "Лекція",
+        "pairNumber": 1
+      },
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ільєнко А.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Гулак Н.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Системи технічного захисту інформації",
+        "professor": "Німченко Т.В.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 4
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Майстренко А.А.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 5
+      }
+    ],
+    "tuesday": [
+      {
+        "name": "Основи інтернет-технологій",
+        "professor": "Вишневська Н.С.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 1
+      },
+      {
+        "name": "Основи інтернет-технологій",
+        "professor": "Вишневська Н.С.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 2
+      },
+      {
+        "name": "Програмні засоби захисту інформації",
+        "professor": "Вакдзо",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Захищені мережеві протоколи",
+        "professor": "Коваленко Ю.Б.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Технології Machine Learning",
+        "professor": "Гріценко",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 5
+      }
+    ],
+    "wednesday": [],
+    "thursday": [
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Галапа Л.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 1
+      },
+      {
+        "name": "Програмні засоби захисту інформації",
+        "professor": "Печенко Є.М.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 2
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Гулак Н.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Системи технічного захисту інформації",
+        "professor": "Німченко Т.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Захищені мережеві протоколи",
+        "professor": "Коваленко Ю.Б.",
+        "pairFormat": "Лекція",
+        "pairNumber": 5
+      }
+    ],
+    "friday": [
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ільєнко А.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2
+      },
+      {
+        "name": "Системи технічного захисту інформації",
+        "professor": "Німченко Т.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Основи інтернет-технологій",
+        "professor": "Вишневська Н.С.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Позова І.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 5
+      },
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Позова І.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 6
+      }
+    ],
+    "saturday": [
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Різак М.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2
+      },
+      {
+        "name": "Технології Machine Learning",
+        "professor": "Гріценко",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Програмні засоби захисту інформації",
+        "professor": "Вакдзо",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Захищені мережеві протоколи",
+        "professor": "Коваленко Ю.Б.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 5
+      }
+    ]
+  },
+  "week2": {
+    "monday": [
+      {
+        "name": "Технології Machine Learning",
+        "professor": "Гріценко В.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 1
+      },
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ільєнко А.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Гулак Н.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Системи технічного захисту інформації",
+        "professor": "Німченко Т.В.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 4
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Майстренко А.А",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 5
+      }
+    ],
+    "tuesday": [
+      {
+        "name": "Основи інтернет-технологій",
+        "professor": "Вишневська Н.С.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 1
+      },
+      {
+        "name": "Основи інтернет-технологій",
+        "professor": "Вишневська Н.С.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 2
+      },
+      {
+        "name": "Програмні засоби захисту інформації",
+        "professor": "Бакало Ю.Б.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Захищені мережеві протоколи",
+        "professor": "Коваленко Ю.Б.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Технології Machine Learning",
+        "professor": "Гріценко В.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 5
+      }
+    ],
+    "wednesday": [],
+    "thursday": [
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Галага Л.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 1
+      },
+      {
+        "name": "Програмні засоби захисту інформації",
+        "professor": "Печенко Є.М.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 2
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Гулак Н.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Системи технічного захисту інформації",
+        "professor": "Німченко Т.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Захищені мережеві протоколи",
+        "professor": "Коваленко Ю.Б.",
+        "pairFormat": "Лекція",
+        "pairNumber": 5
+      }
+    ],
+    "friday": [
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ільєнко А.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2
+      },
+      {
+        "name": "Системи технічного захисту інформації",
+        "professor": "Німченко Т.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Основи інтернет-технологій",
+        "professor": "Вишневська Н.С.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Позова І.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 5
+      },
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Позова І.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 6
+      }
+    ],
+    "saturday": [
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Різак М.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2
+      },
+      {
+        "name": "Технології Machine Learning",
+        "professor": "Гріценко В.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3
+      },
+      {
+        "name": "Програмні засоби захисту інформації",
+        "professor": "Бакало Ю.Б.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4
+      },
+      {
+        "name": "Захищені мережеві протоколи",
+        "professor": "Коваленко Ю.Б.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 5
+      }
+    ]
+  }
+}
