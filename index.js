@@ -2,7 +2,6 @@ import express from "express";
 import "dotenv/config";
 import { handler } from "./controller/index.js";
 
-
 const PORT = process.env.PORT || 4040;
 const app = express();
 
@@ -13,7 +12,9 @@ app.post("*", async (req, res) => {
 });
 
 app.get("*", async (req, res) => {
-  res.send("Get request");
+  res.send(
+    "<h3>That link just a webhook for telegram bot right here <a href='https://t.me/ub_475_bot'>Link</a></h3> ",
+  );
 });
 
 app.listen(PORT, (err) => {
