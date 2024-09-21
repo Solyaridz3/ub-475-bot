@@ -7,13 +7,6 @@ function sendMessage(messageObj, messageText) {
   });
 }
 
-function deleteMessage(messageObj) {
-  return axiosInstance.get("deleteMessage", {
-    chat_id: messageObj.chat.id,
-    message_id: messageObj.message_id,
-  });
-}
-
 function handleMessage(messageObj) {
   const messageText = messageObj.text || "";
   if (messageText.charAt(0) === "/") {
@@ -29,4 +22,27 @@ function handleMessage(messageObj) {
   return "Do not need to respond";
 }
 
-export { handleMessage, deleteMessage };
+function deleteMessage(messageObj) {
+  return axiosInstance.get("deleteMessage", {
+    chat_id: messageObj.chat.id,
+    message_id: messageObj.message_id,
+  });
+}
+
+// Asynchronous delay function using setTimeout to avoid blocking execution
+async function delayDelete(messageObj, ms, commandMessageObj = null) {
+  try {
+    await new Promise((resolve) => setTimeout(resolve, ms));
+    await deleteMessage(messageObj);
+    console.log(`Message ${messageObj} deleted successfully.`);
+
+    if (commandMessageObj) {
+      await deleteMessage(commandMessageObj);
+      console.log("Command message deleted successfully.");
+    }
+  } catch (err) {
+    console.error(`Failed to delete message(s): ${err.message}`);
+  }
+}
+
+export { handleMessage, deleteMessage, delayDelete };

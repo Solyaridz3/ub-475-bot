@@ -1,23 +1,4 @@
-import { handleMessage, deleteMessage } from "./lib/Telegram.js";
-
-// Asynchronous delay function using setTimeout to avoid blocking execution
-function delayDelete(messageObj, ms, commandMessageObj = null) {
-  setTimeout(async () => {
-    try {
-      await deleteMessage(messageObj);
-      console.log(`Message ${messageObj} deleted successfully.`);
-    } catch (err) {
-      console.error(`Failed to delete message ${messageObj}:`, err.message);
-    }
-    if (commandMessageObj) {
-      try {
-        await deleteMessage(commandMessageObj);
-      } catch (err) {
-        console.log("Failed to delete command message", err.message);
-      }
-    }
-  }, ms);
-}
+import { handleMessage, delayDelete } from "./lib/Telegram.js";
 
 // Main handler function for processing incoming requests
 async function handler(req, method) {
