@@ -1,62 +1,70 @@
 {
-    "Лекція": {
-        "Авіаційна безпека та кібербезпека авіаційних інф": {
-            "classroom": "https://classroom.google.com/c/NzA5NTg4NzIyMzI3",
-            "googleMeet": "https://meet.google.com/typ-xiww-rjd"
-        },
-        "Операційні системи та технології їх захисту": {
-            "classroom": "https://classroom.google.com/c/NzA4MjUwNDIxMDMw",
-            "googleMeet": "https://meet.google.com/eop-oocc-ryo"
-        },
-        "Програмні засоби захисту інформації": {
-            "classroom": "https://classroom.google.com/c/NzA4MDAzOTYxMTE0",
-            "googleMeet": "https://meet.google.com/itu-adgj-nts"
-        },
-        "Системи технічного захисту інформації": {
-            "classroom": "https://classroom.google.com/c/NzA3OTc1MzE2OTIx",
-            "googleMeet": "https://meet.google.com/uis-hkgm-epm"
-        },
-        "Основи інтернет-технологій": {
-            "classroom": "https://classroom.google.com/c/Njg1MjY1NDU2Mzk0",
-            "googleMeet": "https://meet.google.com/zrq-yuwu-jop"
-        },
-        "Захищені мережеві протоколи": {
-            "classroom": "https://classroom.google.com/c/NzA4MjM1NDk5Mzc2",
-            "googleMeet": "https://meet.google.com/sqo-wxpa-cot"
-        },
-        "Прикладна криптологія": {
-            "classroom": "https://classroom.google.com/c/NjU1MjU2ODQ2MTMx",
-            "googleMeet": "https://meet.google.com/jhm-qqrw-ivr"
-        }
+  "Лекція": {
+    "Авіаційна безпека та кібербезпека авіаційних інф": {
+      "classroom": "https://classroom.google.com/c/NzA5NTg4NzIyMzI3",
+      "googleMeet": "https://meet.google.com/typ-xiww-rjd"
     },
-    "Лабораторна": {
-        "Операційні системи та технології їх захисту": {
-            "classroom": "https://classroom.google.com/c/NzA0OTA3NTQwNjA1",
-            "googleMeet": "https://meet.google.com/ctr-qgfe-eok"
-        },
-        "Основи інтернет-технологій": {
-            "classroom": "https://classroom.google.com/c/Njg1MjY1NDU2Mzk0",
-            "googleMeet": "https://meet.google.com/zrq-yuwu-jop"
-        },
-        "Програмні засоби захисту інформації": {
-            "classroom": "https://classroom.google.com/c/NzA4MDAzOTYxMTE0",
-            "googleMeet": "https://meet.google.com/itu-adgj-nts"
-        },
-        "Прикладна криптологія": {
-            "classroom": "https://classroom.google.com/c/NzA5NTMyMzgzMjQ3",
-            "googleMeet": "https://meet.google.com/use-ffpn-sho"
-        },
-        "Авіаційна безпека та кібербезпека авіаційних інф": {
-            "classroom": "https://classroom.google.com/c/NzA3OTk5OTk0OTQx",
-            "googleMeet": "https://meet.google.com/uud-gtkw-kzv"
-        },
-        "Захищені мережеві протоколи": {
-            "classroom": "https://classroom.google.com/c/NzA4MjM1NDk5Mzc2",
-            "googleMeet": "https://meet.google.com/sqo-wxpa-cot"
-        },
-        "Системи технічного захисту інформації": {
-            "classroom": "https://classroom.google.com/c/NzA3OTc1MzE2OTIx",
-            "googleMeet": "https://meet.google.com/uis-hkgm-epm"
-        }
+    "Операційні системи та технології їх захисту": {
+      "classroom": "https://classroom.google.com/c/NzA4MjUwNDIxMDMw",
+      "googleMeet": "https://meet.google.com/eop-oocc-ryo"
+    },
+    "Програмні засоби захисту інформації": {
+      "classroom": "https://classroom.google.com/c/NzA4MDAzOTYxMTE0",
+      "googleMeet": "https://meet.google.com/itu-adgj-nts"
+    },
+    "Системи технічного захисту інформації": {
+      "classroom": "https://classroom.google.com/c/NzA3OTc1MzE2OTIx",
+      "googleMeet": "https://meet.google.com/uis-hkgm-epm"
+    },
+    "Основи інтернет-технологій": {
+      "classroom": "https://classroom.google.com/c/Njg1MjY1NDU2Mzk0",
+      "googleMeet": "https://meet.google.com/zrq-yuwu-jop"
+    },
+    "Захищені мережеві протоколи": {
+      "classroom": "https://classroom.google.com/c/NzA4MjM1NDk5Mzc2",
+      "googleMeet": "https://meet.google.com/sqo-wxpa-cot"
+    },
+    "Прикладна криптологія": {
+      "classroom": "https://classroom.google.com/c/NjU1MjU2ODQ2MTMx",
+      "googleMeet": "https://meet.google.com/jhm-qqrw-ivr"
+    },
+    "Технології Machine Learning": {
+      "classroom": "https://classroom.google.com/c/NzEwNDcwMjM1NzAz",
+      "googleMeet": "https://meet.google.com/dgb-fvmt-qbo"
     }
+  },
+  "Лабораторна": {
+    "Технології Machine Learning": {
+      "classroom": "https://classroom.google.com/c/NzExMDg5OTMzMzYy",
+      "googleMeet": "https://meet.google.com/pkj-ptti-yoi"
+    },
+    "Операційні системи та технології їх захисту": {
+      "classroom": "https://classroom.google.com/c/NzA0OTA3NTQwNjA1",
+      "googleMeet": "https://meet.google.com/ctr-qgfe-eok"
+    },
+    "Основи інтернет-технологій": {
+      "classroom": "https://classroom.google.com/c/Njg1MjY1NDU2Mzk0",
+      "googleMeet": "https://meet.google.com/zrq-yuwu-jop"
+    },
+    "Програмні засоби захисту інформації": {
+      "classroom": "https://classroom.google.com/c/NzA4MDAzOTYxMTE0",
+      "googleMeet": "https://meet.google.com/itu-adgj-nts"
+    },
+    "Прикладна криптологія": {
+      "classroom": "https://classroom.google.com/c/NzA5NTMyMzgzMjQ3",
+      "googleMeet": "https://meet.google.com/use-ffpn-sho"
+    },
+    "Авіаційна безпека та кібербезпека авіаційних інф": {
+      "classroom": "https://classroom.google.com/c/NzA3OTk5OTk0OTQx",
+      "googleMeet": "https://meet.google.com/uud-gtkw-kzv"
+    },
+    "Захищені мережеві протоколи": {
+      "classroom": "https://classroom.google.com/c/NzA4MjM1NDk5Mzc2",
+      "googleMeet": "https://meet.google.com/sqo-wxpa-cot"
+    },
+    "Системи технічного захисту інформації": {
+      "classroom": "https://classroom.google.com/c/NzA3OTc1MzE2OTIx",
+      "googleMeet": "https://meet.google.com/uis-hkgm-epm"
+    }
+  }
 }
